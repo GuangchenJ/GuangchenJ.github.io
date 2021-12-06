@@ -7,7 +7,6 @@
 * GitHub as [@GuangchenJ](https://github.com/GuangchenJ)
 * LeetCode-cn as [@姜广琛](https://leetcode-cn.com/u/jiang-guang-chen/)
 * Twitter as [@GuangchenJ](https://twitter.com/GuangchenJ)
-* Facebook as [@GuangchenJ](https://www.facebook.com/GuangchenJ)
 
 **My Resume/CV:**
 
@@ -16,17 +15,15 @@
 
 ### Contact
 
-**Address:**
-
 <i class="fas fa-map-marker-alt"></i> *School of Software, Yunnan University - Kunming, 650504, Yunnan, PRC*
-<i class="far fa-map-marker-alt"></i> *School of Software, Yunnan University - Kunming, 650504, Yunnan, PRC*
 
-**Email:**
+<i class="far fa-envelope"></i><guangchen@mail.ynu.edu.cn>
 
-* <i class="far fa-envelope-square"></i> <guangchen@mail.ynu.edu.cn>
-* <i class="fal fa-envelope"></i> <guangchen98.jiang@gmail.com>
+<i class="far fa-envelope"></i> <guangchen98.jiang@gmail.com>
 
-**Wehat**
+<i class="fab fa-twitter"></i> https://twitter.com/GuangchenJ
+
+<i class="fab fa-facebook-square"></i> https://www.facebook.com/GuangchenJ
 
 <i class="fa fa-weixin"></i> Guangchen_98
 
