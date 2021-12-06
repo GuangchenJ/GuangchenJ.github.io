@@ -20,9 +20,9 @@
 
 <i class="far fa-envelope"></i> <guangchen98.jiang@gmail.com>
 
-<i class="fab fa-twitter"></i> <https://twitter.com/GuangchenJ>
+<i class="fab fa-twitter"></i> [@GuangchenJ](https://twitter.com/GuangchenJ)
 
-<i class="fab fa-facebook-square"></i> <https://www.facebook.com/GuangchenJ>
+<i class="fab fa-facebook-square"></i> [@GuangchenJ](https://www.facebook.com/GuangchenJ)
 
 <i class="fa fa-weixin"></i> Guangchen_98
 
