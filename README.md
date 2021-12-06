@@ -1,6 +1,7 @@
 ## Hi I'm [@Guangchen Jiang](https://github.com/GuangchenJ) 👋
 
 
+
 **You can find me on:**
 
 * GitHub as [@GuangchenJ](https://github.com/GuangchenJ)
@@ -17,9 +18,14 @@
 
 **Address:**
 
-*School of Software, Yunnan University - Kunming, 650504, Yunnan, PRC*
+<i class="fas fa-map-marker-alt"></i> *School of Software, Yunnan University - Kunming, 650504, Yunnan, PRC*
+<i class="far fa-map-marker-alt"></i> *School of Software, Yunnan University - Kunming, 650504, Yunnan, PRC*
 
 **Email:**
 
-* <guangchen@mail.ynu.edu.cn>
-* <guangchen98.jiang@gmail.com>
+* <i class="far fa-envelope-square"></i> <guangchen@mail.ynu.edu.cn>
+* <i class="fal fa-envelope"></i> <guangchen98.jiang@gmail.com>
+
+**Wehat**
+
+<i class="fa fa-weixin"></i> Guangchen_98
